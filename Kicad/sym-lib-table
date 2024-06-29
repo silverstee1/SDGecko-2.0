@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MICROSDCARD_Library")(type "KiCad")(uri "${KIPRJMOD}/MICROSDCARD_Library.pretty/MICROSDCARD_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "GCMEMPADS_Library")(type "KiCad")(uri "${KIPRJMOD}/MICROSDCARD_Library.pretty/GCMEMPADS_Library.kicad_sym")(options "")(descr ""))
+)
