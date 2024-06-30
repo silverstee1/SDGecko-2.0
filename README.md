@@ -20,7 +20,7 @@ https://github.com/emukidid/swiss-gc
 
 SDGecko+2.0 BOM
 =====================================
-The PCB must be ordered in 1.6mm thickness with surface finish ENIG at minimum.
+The PCB must be ordered (e.g. from jlcpcb) in 1.6mm thickness with surface finish ENIG at minimum.
 
 **3D Printed Case Enclosure**
 
