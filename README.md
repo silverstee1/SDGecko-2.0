@@ -4,6 +4,7 @@ MicroSD Card Adapter For GameCube's Front Memcard Slots v2.0
 Based on the SD2SP2 2.0 made by Extrems, Thank you for your hard work!
 
 **Important**
+
 When using the adapter make sure to have the Latest Version of Swiss, Due to the way Swiss handles it in SLOT A it 
 acts like a normal speed Passive SDGecko, in SLOT B it works in Semi-Passive 2.0 enhanced speed mode.
 
