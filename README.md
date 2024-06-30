@@ -27,6 +27,8 @@ The PCB must be ordered in 1.6mm thickness with surface finish ENIG at minimum.
 You'll need to 3D print the case enclosure Top and Bottom pieces from the Case folder to use it in your Memcard Slot preferably on an FDM printer, 
 the case screws are self tapping M2x4 pan head screws.
 
+**Note**
+
 R1,R2,D1,D2 are not necessary if you don't want to have LED's in your adapter or want to minimize on components.
 
 **SDGecko2.0+ PCB**
