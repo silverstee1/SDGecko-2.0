@@ -45,11 +45,11 @@ LCSC Part# C400609
 
 LCSC Part# C400609
 
-**D1** 0402 Green Led 20ma (Dot on PCB footprint marks LED Cathode side) - Digikey Part# 1516-1216-1-ND
+**D1:** 0402 Green Led 20ma (Dot on PCB footprint marks LED Cathode side) - Digikey Part# 1516-1216-1-ND
 
 LCSC Part# C2856703
 
-**D2** 0402 Blue Led 20ma (Dot on PCB footprint marks LED Cathode side) - Digikey Part# 1516-1215-1-ND
+**D2:** 0402 Blue Led 20ma (Dot on PCB footprint marks LED Cathode side) - Digikey Part# 1516-1215-1-ND
 
 LCSC Part # C965797
 
