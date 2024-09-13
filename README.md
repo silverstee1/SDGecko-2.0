@@ -25,7 +25,7 @@ The PCB must be ordered (e.g. from jlcpcb) in 1.6mm thickness with surface finis
 **3D Printed Case Enclosure**
 
 You'll need to 3D print the case enclosure Top and Bottom pieces from the Case folder to use it in your Memcard Slot preferably on an FDM printer, 
-the case screws are self tapping M2x5 screws.
+the case screws are countersunk self tapping M2x5 screws.
 
 **Note**
 
