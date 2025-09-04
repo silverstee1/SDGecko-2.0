@@ -1446,38 +1446,26 @@
 		)
 	)
 	(junction
-		(at 226.06 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "278a5bef-b32e-4d5b-a3a7-ff7af4db272a")
-	)
-	(junction
 		(at 158.75 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "74919edb-fcbd-4125-a746-20565371b1c2")
 	)
-	(junction
-		(at 226.06 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e75aa4ef-288d-40e2-802a-94ba0253d9cd")
+	(no_connect
+		(at 218.44 110.49)
+		(uuid "644a1bcc-4612-49a8-a617-e75e2211602f")
 	)
-	(junction
-		(at 226.06 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ecbe5eed-ad66-49f3-b102-8c120767a500")
+	(no_connect
+		(at 218.44 115.57)
+		(uuid "94030eda-9857-4458-bfd9-1661ab630c49")
 	)
-	(wire
-		(pts
-			(xy 226.06 120.65) (xy 226.06 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "068049e2-c317-4768-85e1-bd986820b79c")
+	(no_connect
+		(at 218.44 120.65)
+		(uuid "9f7014f7-b866-4656-89c0-011926b948a9")
+	)
+	(no_connect
+		(at 218.44 118.11)
+		(uuid "a867a361-2734-4b02-a502-853d49804bfa")
 	)
 	(wire
 		(pts
@@ -1488,26 +1476,6 @@
 			(type default)
 		)
 		(uuid "1c8bdfad-75e3-4ac1-8362-3f7cc8509977")
-	)
-	(wire
-		(pts
-			(xy 226.06 110.49) (xy 226.06 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1da04168-1d8a-421e-815b-cd62f7cf85c6")
-	)
-	(wire
-		(pts
-			(xy 226.06 118.11) (xy 226.06 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "286b6bf0-2a34-45c1-832b-4874a5103e80")
 	)
 	(wire
 		(pts
@@ -1551,16 +1519,6 @@
 	)
 	(wire
 		(pts
-			(xy 218.44 115.57) (xy 226.06 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "542bf3f0-c446-4e73-8a6c-a60b55f1ba5f")
-	)
-	(wire
-		(pts
 			(xy 179.07 90.17) (xy 184.15 90.17)
 		)
 		(stroke
@@ -1588,16 +1546,6 @@
 			(type default)
 		)
 		(uuid "6183057f-bfb9-49d5-8af4-185572b6a521")
-	)
-	(wire
-		(pts
-			(xy 226.06 115.57) (xy 226.06 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63901b8b-090c-4819-a32a-d4b1e04e75f5")
 	)
 	(wire
 		(pts
@@ -1648,26 +1596,6 @@
 			(type default)
 		)
 		(uuid "72306241-745e-4687-9f5f-8d16ab4b1d40")
-	)
-	(wire
-		(pts
-			(xy 218.44 118.11) (xy 226.06 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76a56979-a02a-4289-b94f-35337d694740")
-	)
-	(wire
-		(pts
-			(xy 218.44 120.65) (xy 226.06 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7788cb41-d0b1-4200-9c70-6fcaac40c896")
 	)
 	(wire
 		(pts
@@ -1758,16 +1686,6 @@
 			(type default)
 		)
 		(uuid "c813466a-79d3-436c-94b6-5f4d60c04d0a")
-	)
-	(wire
-		(pts
-			(xy 218.44 110.49) (xy 226.06 110.49)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9c15551-8c12-41d1-af7c-71018b59558f")
 	)
 	(wire
 		(pts
@@ -2103,6 +2021,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C3845593"
+			(at 138.43 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "74b6b5a9-1d27-45a1-a56a-e6dbd7ae2db2")
 		)
@@ -2136,7 +2063,7 @@
 				)
 			)
 		)
-		(property "Value" "LED WR"
+		(property "Value" "LED WR BLU"
 			(at 167.9575 85.09 0)
 			(effects
 				(font
@@ -2171,6 +2098,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C965797"
+			(at 166.37 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cbfaeeb6-8fa0-4392-a6b6-2c93a9bc78ba")
 		)
@@ -2181,72 +2117,6 @@
 			(project "SDGeckoLED"
 				(path "/7df071e1-7397-44f5-b59a-b874d632f1c4"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 226.06 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "46153028-1be6-4b4e-80da-0aa0c98ffe0d")
-		(property "Reference" "#PWR02"
-			(at 226.06 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 226.06 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 226.06 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 226.06 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 226.06 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6eef2743-a1e6-4601-b4ad-2866be6cb0f5")
-		)
-		(instances
-			(project "SDGeckoLED"
-				(path "/7df071e1-7397-44f5-b59a-b874d632f1c4"
-					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -2557,6 +2427,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C113206"
+			(at 172.72 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8c60b235-a903-42e3-a0d9-0e1c6eda4eb3")
 		)
@@ -2650,6 +2529,15 @@
 			)
 		)
 		(property "Description" "Single OR Gate, Low-Voltage CMOS"
+			(at 144.78 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C12488"
 			(at 144.78 113.03 0)
 			(effects
 				(font
@@ -2767,7 +2655,7 @@
 				)
 			)
 		)
-		(property "Value" "LED RD"
+		(property "Value" "LED RD GRN"
 			(at 167.9575 74.93 0)
 			(effects
 				(font
@@ -2802,6 +2690,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC PN" "C2856703"
+			(at 166.37 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d6b4859-51f7-4f0b-9fbd-8edee12ec819")
 		)
@@ -2822,7 +2719,7 @@
 		(at 107.95 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2935,7 +2832,7 @@
 				)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "14R"
 			(at 175.26 76.2 90)
 			(effects
 				(font
@@ -2963,6 +2860,15 @@
 		)
 		(property "Description" ""
 			(at 175.26 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C400609"
+			(at 175.26 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3003,7 +2909,7 @@
 				)
 			)
 		)
-		(property "Value" "10R"
+		(property "Value" "14R"
 			(at 175.26 86.36 90)
 			(effects
 				(font
@@ -3031,6 +2937,15 @@
 		)
 		(property "Description" ""
 			(at 175.26 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC PN" "C400609"
+			(at 175.26 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
