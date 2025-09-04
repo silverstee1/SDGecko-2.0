@@ -4,6 +4,7 @@ MicroSD Card Adapter For GameCube's Front Memcard Slots v2.0
 Based on the SD2SP2 2.0 made by Extrems, Thank you for your hard work!
 
 ***Important Note about Old Gerbers/Worn out SD Card Issues***
+
 Previous version of gerbers could cause 3v3 short to GND by some sus SD card models that have worn out edges exposing 3v3 plane to CD pin when inserted, this is fixed in new gerbers by making the SD card slot GND shield floating to prevent the issue regardless of the card being worn out.
 
 One solution for old gerbers is to snip off the GND shield that the CD switch engages when a card is inserted to prevent old worn SD card edges from shorting to GND as shown in the image below.
